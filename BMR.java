@@ -37,6 +37,6 @@ public class BMR {
         else {
             System.out.println("!!!Enter Your Sex Pls!!!");
         }
-
+                
     }
 }
